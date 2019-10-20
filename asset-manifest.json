@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Responsive-Navbar/static/css/main.f59ae2a6.chunk.css",
+    "main.js": "/Responsive-Navbar/static/js/main.b733f857.chunk.js",
+    "main.js.map": "/Responsive-Navbar/static/js/main.b733f857.chunk.js.map",
+    "runtime-main.js": "/Responsive-Navbar/static/js/runtime-main.b28c9b01.js",
+    "runtime-main.js.map": "/Responsive-Navbar/static/js/runtime-main.b28c9b01.js.map",
+    "static/js/2.750380f2.chunk.js": "/Responsive-Navbar/static/js/2.750380f2.chunk.js",
+    "static/js/2.750380f2.chunk.js.map": "/Responsive-Navbar/static/js/2.750380f2.chunk.js.map",
+    "index.html": "/Responsive-Navbar/index.html",
+    "precache-manifest.d065544c810c63720cdf89e6eebf4a88.js": "/Responsive-Navbar/precache-manifest.d065544c810c63720cdf89e6eebf4a88.js",
+    "service-worker.js": "/Responsive-Navbar/service-worker.js",
+    "static/css/main.f59ae2a6.chunk.css.map": "/Responsive-Navbar/static/css/main.f59ae2a6.chunk.css.map",
+    "static/media/keyboard_backspace-24px.svg": "/Responsive-Navbar/static/media/keyboard_backspace-24px.3804992e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b28c9b01.js",
+    "static/js/2.750380f2.chunk.js",
+    "static/css/main.f59ae2a6.chunk.css",
+    "static/js/main.b733f857.chunk.js"
+  ]
+}
